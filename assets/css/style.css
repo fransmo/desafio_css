@@ -1,0 +1,45 @@
+h1 {
+    margin: 0;
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.principal { 
+ background-image: url("../imgs/fondo.png");
+ color: indianred;
+ background-position: center;
+ background-size: cover;
+ height: 300px;
+ padding: 40px;
+}
+
+.span-principal {
+    font-weight:300;
+}
+.principal p {
+    font-size: 20px;
+}
+
+.productos {
+    width:80% ;
+    margin: auto;
+}
+.productos td{
+    width: 50%;
+    padding: 40px;
+}
+.productos img{
+    width: 400px;
+}
+
+.footer {
+    background-color: indianred;
+    height: 50px;
+}
+.footer p {
+    margin: 0;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
